@@ -24,7 +24,7 @@
 
         "mathiasverraes/money": "*@dev",
         "sylius/resource":      "0.10.*@dev",
-        "symfony/intl":         "~2.3"
+        "symfony/intl":         "^3.0"
     },
     "require-dev": {
         "phpspec/phpspec": "~2.0"
